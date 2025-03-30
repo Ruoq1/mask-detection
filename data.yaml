@@ -1,0 +1,6 @@
+train: E:/ECE/Volunteer/mask-detection/data/train/images
+val: E:/ECE/Volunteer/mask-detection/data/val/images
+test: E:/ECE/Volunteer/mask-detection/data/test/images  # 
+
+nc: 3
+names: ["with_mask", "without_mask", "mask_weared_incorrect"]
